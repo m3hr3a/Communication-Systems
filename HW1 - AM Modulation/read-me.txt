@@ -1,0 +1,9 @@
+This is file for Communicaton Systems - Matlab Assignment 1 
+Codes for probelm 1 containting 9 questions is in Part1.m
+Codes for probelm 2 containting 5 questions is in part2.m
+report file is enclosed in pdf format 
+signal (audio file) is also enclosed , use it for Part2 code
+thanks for your attention
+Mehrsa Pourya - 95101247
+
+
